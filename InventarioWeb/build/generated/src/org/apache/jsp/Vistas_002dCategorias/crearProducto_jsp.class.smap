@@ -1,0 +1,28 @@
+SMAP
+crearProducto_jsp.java
+JSP
+*S JSP
+*F
++ 0 crearProducto.jsp
+Vistas-Categorias/crearProducto.jsp
++ 1 pie.jspf
+Vistas-Categorias/../WEB-INF/Vistas-Parciales/pie.jspf
+*L
+5,4:49
+8:52,9
+9,15:61
+24:76,3
+25,2:79
+27:81,3
+28,4:84
+32:88,3
+33,3:91
+36:94,3
+37,3:97
+40:100,3
+41,3:103
+44:106,3
+45,6:109
+1#1,8:115
+50#0,6:122
+*E
